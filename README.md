@@ -169,6 +169,6 @@ Informer有关参数的详细说明如下：
 ## 结果
 
 所有MSE,MAE对比结果为在对数据标准化后进行的。由于算力有限，预测序列较长的任务目前还未完成。
+<img width="1242" alt="image" src="https://github.com/wech1228/ECL-forecast/assets/89915228/b5c9ab0d-d8f8-4d15-a054-8cfe7a090398">
 
-![image-20231110104654377](/Users/wenchen/Library/Application Support/typora-user-images/image-20231110104654377.png)
 
