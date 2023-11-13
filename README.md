@@ -1,4 +1,4 @@
-# 基于用电量的时间序列预测算法
+<img width="1241" alt="image" src="https://github.com/wech1228/ECL-forecast/assets/89915228/8b6e2e6b-fe01-46c1-acb7-da1628e5b4db"># 基于用电量的时间序列预测算法
 
 ## 项目背景
 
@@ -167,6 +167,8 @@ Informer有关参数的详细说明如下：
 ## 结果
 
 所有MSE,MAE对比结果为在对数据标准化后进行的。由于算力有限，预测序列较长的任务目前还未完成。
-<img width="1242" alt="image" src="https://github.com/wech1228/ECL-forecast/assets/89915228/b5c9ab0d-d8f8-4d15-a054-8cfe7a090398">
+<img width="1243" alt="截屏2023-11-13 09 08 34" src="https://github.com/wech1228/ECL-forecast/assets/89915228/b6064543-b8c2-4aa8-acfc-e72af1837531">
+
+
 
 
