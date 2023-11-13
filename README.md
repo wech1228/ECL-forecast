@@ -8,9 +8,7 @@
 
 ## 数据集
 
-数据集是来自UCI的时间序列数据，此数据集记录了370个用户的每15分钟用电量，时间从2011年到2014年，数据集一共包含140256行，370列，并且无缺失值。数据情况如下：
-
-![image-20231110091858318](/Users/wenchen/Library/Application Support/typora-user-images/image-20231110091858318.png)
+数据集是来自UCI的时间序列数据，此数据集记录了370个用户的每15分钟用电量，时间从2011年到2014年，数据集一共包含140256行，370列，并且无缺失值。
 
 下载链接：[DOWNLOAD (uci.edu)](https://archive.ics.uci.edu/static/public/321/electricityloaddiagrams20112014.zip)
 
