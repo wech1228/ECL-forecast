@@ -1,5 +1,4 @@
-<img width="1241" alt="image" src="https://github.com/wech1228/ECL-forecast/assets/89915228/8b6e2e6b-fe01-46c1-acb7-da1628e5b4db"># 基于用电量的时间序列预测算法
-
+# ECL用电量预测
 ## 项目背景
 
 本次项目的目标是基于用户的历史用电量数据预测未来一段时间的用电量，本次任务用到的模型包括ARIMA、LSTM、Informer。通过对比各模型的性能差异，更深入地学习各模型的优缺点。
