@@ -116,8 +116,8 @@ Informer有关参数的详细说明如下：
 | :--------------- | ------------------------------------------------------------ |
 | model            | The model of experiment. This can be set to `informer`, `informerstack`, `informerlight(TBD)` |
 | data             | The dataset name                                             |
-| root_path        | The root path of the data file (defaults to `./data/ETT/`)   |
-| data_path        | The data file name (defaults to `ETTh1.csv`)                 |
+| root_path        | The root path of the data file (defaults to `./data/ECL/`)   |
+| data_path        | The data file name (defaults to `ECL.csv`)                 |
 | features         | The forecasting task (defaults to `M`). This can be set to `M`,`S`,`MS` (M : multivariate predict multivariate, S : univariate predict univariate, MS : multivariate predict univariate) |
 | target           | Target feature in S or MS task (defaults to `OT`)            |
 | freq             | Freq for time features encoding (defaults to `h`). This can be set to `s`,`t`,`h`,`d`,`b`,`w`,`m` (s:secondly, t:minutely, h:hourly, d:daily, b:business days, w:weekly, m:monthly).You can also use more detailed freq like 15min or 3h |
